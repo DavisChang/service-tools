@@ -12,5 +12,10 @@ This repository is designed to support **developers**, **DevOps engineers**, and
     ├── Service/ # HTTPS endpoint diagnostic tool
     │ ├── check-api-health.sh
     │ └── README.md # Step-by-step explanation and output interpretation
+    ├── Jira/    # Jira Release Ticket Fetcher
+    │ ├── fetch-release-tickets.sh
+    │ ├── README.md
+    │ ├── package-lock.json
+    │ └── package.json
     ├── ...
 ```
